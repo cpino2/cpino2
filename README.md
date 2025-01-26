@@ -41,7 +41,7 @@ HIPAA Certification - Privacy & Security Awareness - <em>University of Miami Hea
 
 ## Data Science Portfolio🚀
 <details><summary>
-<a href='https://github.com/dmsmiley/USS_Indianapolis'><strong>⚡Python Portfolio (In Progress)</strong></a>
+<a href='https://github.com/cpino2/PINO-Python-Portfolio'><strong>⚡Python Portfolio (In Progress)</strong></a>
 </summary>
 <br>
 <strong>Skills</strong>
