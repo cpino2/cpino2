@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About Me 👋
+## About Me 😄
 I am a **Student** on the **Pre-Medical Track** at the **University of Notre Dame** majoring in **Neuroscience and Behavior** with a minor in **Computing and Digital Technologies**🏰. I am passionate about **mental health, exercise, science, service, and tech**📊, and I look forward to using my education to be a **force for good** in the world.
