@@ -26,5 +26,8 @@ I am a **Student** on the **Pre-Medical Track** at the **University of Notre Dam
 
 ## Let's Connect 🌐
 <a href="https://www.linkedin.com/in/cecilia-pino-004846289/">
-  <img align="left" alt="Cecilia Pino | LinkedIN" width="40px" src="assets/twitter-logo.png"/>
+  <img align="left" alt="Cecilia Pino | LinkedIN" width="40px" src="assets/linkedin.png"/>
+</a>
+<a href="mailto:cpino2@nd.edu">
+  <img align="left" alt="Cecilia Pino | Gmail" width="60px" src="assets/gmail.png"/>
 </a>
