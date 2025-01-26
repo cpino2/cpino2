@@ -37,6 +37,7 @@ HIPAA Certification - Privacy & Security Awareness - <em>University of Miami Hea
 - VS Code
 - Google Colab
 - R-Script
+- Data Visualization & Analysis
 
 ## Let's Connect 🌐
 <a href="https://www.linkedin.com/in/cecilia-pino-004846289/">
