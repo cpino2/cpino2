@@ -24,6 +24,11 @@ I am a **Student** on the **Pre-Medical Track** at the **University of Notre Dam
 - **La Universidad de Salamanca**
 - **Epiphany Catholic School**
 
+## Certifications 📜
+<details><summary>
+HIPAA Certification - Privacy & Security Awareness - <em>University of Miami Health System</em> (May 2024)
+</summary></details>
+
 ## Let's Connect 🌐
 <a href="https://www.linkedin.com/in/cecilia-pino-004846289/">
   <img align="left" alt="Cecilia Pino | LinkedIN" width="40px" src="assets/linkedin.png"/>
