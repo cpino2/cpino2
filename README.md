@@ -26,6 +26,9 @@ I am a **Student** on the **Pre-Medical Track** at the **University of Notre Dam
 
 ## Certifications 📜
 <details><summary>
+Human Research - Social & Behavioral Research 1 - Basic Course - <em>CITI Program</em> (August 2024)
+</summary></details>
+<details><summary>
 HIPAA Certification - Privacy & Security Awareness - <em>University of Miami Health System</em> (May 2024)
 </summary></details>
 
