@@ -23,3 +23,8 @@ I am a **Student** on the **Pre-Medical Track** at the **University of Notre Dam
 - **Carrollton School of the Sacred Heart**
 - **La Universidad de Salamanca**
 - **Epiphany Catholic School**
+
+## Let's Connect 🌐
+<a href="https://www.linkedin.com/in/cecilia-pino-004846289/">
+  <img align="left" alt="Cecilia Pino | LinkedIN" width="40px" src="assets/twitter-logo.png"/>
+</a>
