@@ -32,7 +32,7 @@ Human Research - Social & Behavioral Research 1 - Basic Course - <em>CITI Progra
 HIPAA Certification - Privacy & Security Awareness - <em>University of Miami Health System</em> (May 2024)
 </summary></details>
 
-**Technical Skills**
+## Technical Skills🤔
 - Python
 - VS Code
 - Google Colab
