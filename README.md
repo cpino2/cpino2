@@ -39,6 +39,14 @@ HIPAA Certification - Privacy & Security Awareness - <em>University of Miami Hea
 - R-Script
 - Data Visualization & Analysis
 
+## Data Science Portfolio🚀
+<details><summary>
+<a href='https://github.com/dmsmiley/USS_Indianapolis'><strong>⚡Python Portfolio (In Progress)</strong></a>
+</summary>
+<br>
+<strong>Skills</strong>
+</details>
+
 ## Let's Connect 🌐
 <a href="https://www.linkedin.com/in/cecilia-pino-004846289/">
   <img align="left" alt="Cecilia Pino | LinkedIN" width="40px" src="assets/linkedin.png"/>
