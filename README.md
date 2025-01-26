@@ -32,6 +32,12 @@ Human Research - Social & Behavioral Research 1 - Basic Course - <em>CITI Progra
 HIPAA Certification - Privacy & Security Awareness - <em>University of Miami Health System</em> (May 2024)
 </summary></details>
 
+**Technical Skills**
+- Python
+- VS Code
+- Google Colab
+- R-Script
+
 ## Let's Connect 🌐
 <a href="https://www.linkedin.com/in/cecilia-pino-004846289/">
   <img align="left" alt="Cecilia Pino | LinkedIN" width="40px" src="assets/linkedin.png"/>
