@@ -48,7 +48,7 @@ HIPAA Certification - Privacy & Security Awareness - <em>University of Miami Hea
 </details>
 
 ## Current Projects
-This semester, I am working on navigating GitHub, learning how to code on Visual Studio Code, and understanding how to link my Visual Studio Code to my Github Profile.
+This semester, I am working on navigating GitHub, learning how to code on Visual Studio Code, and understanding how to link my Visual Studio Code to my Github Portfolio.
 
 ## Let's Connect 🌐
 <a href="https://www.linkedin.com/in/cecilia-pino-004846289/">
