@@ -50,6 +50,9 @@ HIPAA Certification - Privacy & Security Awareness - <em>University of Miami Hea
 ## Current Projects
 This semester, I am working on navigating GitHub, learning how to code on Visual Studio Code, and understanding how to link my Visual Studio Code to my Github Portfolio.
 
+## Goals
+By the end of the semester, I hope to learn how to apply my coding skills to real world scenarios, whether that be creating an app or conducting a data analysis about information I feel passionate about, such as medicine and healthcare. I hope to grow in my public speaking skills and become more comfortable with data storytelling skills.
+
 ## Let's Connect 🌐
 <a href="https://www.linkedin.com/in/cecilia-pino-004846289/">
   <img align="left" alt="Cecilia Pino | LinkedIN" width="40px" src="assets/linkedin.png"/>
