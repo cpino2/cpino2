@@ -51,7 +51,7 @@ HIPAA Certification - Privacy & Security Awareness - <em>University of Miami Hea
 This semester, I am learning how to build up my GitHub porfolio, embarking on fun passion projects using my coding skills on Visual Studio Code, and understanding the connections between Visual Studio Code and my Github Desktop!
 
 ## Goals⚡
-By the end of the semester, I hope to learn how to apply my coding skills to real world scenarios, whether that be creating an app or conducting an insightful data analysis, such as understanding the correlation between mental health and homelesness. I hope to use the insights I gather from such analyses as this to use my education to be a force for good! I also hope to develop my public speaking skills throughout the semester and become more comfortable with data storytelling skills in the process as well.
+By the end of the semester, I hope to learn how to apply my coding skills to real world scenarios, whether that be creating an app or conducting an insightful data analysis, such as understanding the correlation between mental health and homelesness. I hope to use the insights I gather from such analyses as this to be a force for good! I also hope to develop my public speaking skills throughout the semester and become more comfortable with data storytelling skills in the process as well.
 
 ## Let's Connect 🌐
 <a href="https://www.linkedin.com/in/cecilia-pino-004846289/">
