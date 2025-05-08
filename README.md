@@ -38,6 +38,11 @@ HIPAA Certification - Privacy & Security Awareness - <em>University of Miami Hea
 - Google Colab
 - R-Script
 - Data Visualization & Analysis
+- spaCy
+- Natural Language Processing
+- Named Entity Recognition
+- Streamlit App Creator
+- Deployment to Streamlit Community Cloud
 
 ## Data Science Portfolio🚀
 <details><summary>
@@ -47,11 +52,38 @@ HIPAA Certification - Privacy & Security Awareness - <em>University of Miami Hea
 <strong>Skills</strong>
 </details>
 
-## Current Projects🌱
+## Projects🌱
+Alzheimer's Disease Risk Predictor App: 
+
+Final Streamlit App: Alzheimer's Disease Risk Predictor Based on User Input (Age, Sex, Education Level, APOE4 Status, Family History)
+
+https://github.com/cpino2/PINO-Python-Portfolio/tree/main/StreamlitAppFinal
+NER Streamlit App: Explor spaCy's Named Entity Recognition with custom labels and patterns
+
+https://github.com/cpino2/PINO-Python-Portfolio/tree/main/NERStreamlitApp
+Tidy Data Project: Apply Tidy Data Principles to clean, transform, and tidy up a dataset
+
+https://github.com/cpino2/PINO-Python-Portfolio/tree/main/TidyData-Project.
+Basic Streamlit App: Explore interactive features for user to engage with a penguin population dataset
+
+https://github.com/cpino2/PINO-Python-Portfolio/tree/main/basic-streamlit-app
 This semester, I am learning how to build up my GitHub porfolio, embarking on fun passion projects using my coding skills on Visual Studio Code, and understanding the connections between Visual Studio Code and my Github Desktop!
 
+## Accomplishments⚡
+As I reflect on all that I've learned this semester, here are some goals I've met that I am proud of myself for accomplishing! 
+- Pursuing a passion project through the creation of the Alzhemier's Disease Risk Predictor App
+- Creating a Streamlit App using spaCy's NER
+- Keeping an organized Python Portfolio
+- Learning how to deploy an app on the Streamlit Community Cloud
+- Applying interactive lines of code to engage the user with apps created
+- Commenting out all lines of code to explain the function of each command
+- Keeping my portfolio updated as new projects are created and old ones are revised
+
 ## Goals⚡
-By the end of the semester, I hope to learn how to apply my coding skills to real world scenarios, whether that be creating an app or conducting an insightful data analysis, such as understanding the correlation between mental health and homelesness. I hope to use the insights I gather from such analyses as this to be a force for good! I also hope to develop my public speaking skills throughout the semester and become more comfortable with data storytelling skills in the process as well.
+- Create disease risk predictor apps for other conditions, such as COVID-19 and ALS
+- Analyze larger datasets from the National Institute of Health using Data Visualization Skills
+- Create App For Notre Dame Athletes to Receive Feedback for Perfomance Enhancment and Injury Risk Prevention through Sports Biomechanics Research Group in the College of Engineering
+- Sharing my creations/projects with others in the healthcare domain through the Streamlit Community Cloud
 
 ## Let's Connect 🌐
 <a href="https://www.linkedin.com/in/cecilia-pino-004846289/">
