@@ -53,8 +53,6 @@ HIPAA Certification - Privacy & Security Awareness - <em>University of Miami Hea
 </details>
 
 ## Projects🌱
-Alzheimer's Disease Risk Predictor App: 
-
 Final Streamlit App: Alzheimer's Disease Risk Predictor Based on User Input (Age, Sex, Education Level, APOE4 Status, Family History)
 
 https://github.com/cpino2/PINO-Python-Portfolio/tree/main/StreamlitAppFinal
