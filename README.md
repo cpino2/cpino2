@@ -53,19 +53,23 @@ HIPAA Certification - Privacy & Security Awareness - <em>University of Miami Hea
 </details>
 
 ## Projects🌱
+Below are links to project specific repositories I created this semester while building up my GitHub portfolio using Visual Studio Code to make passion projects come to life!
+
 Final Streamlit App: Alzheimer's Disease Risk Predictor Based on User Input (Age, Sex, Education Level, APOE4 Status, Family History)
 
 https://github.com/cpino2/PINO-Python-Portfolio/tree/main/StreamlitAppFinal
+
 NER Streamlit App: Explor spaCy's Named Entity Recognition with custom labels and patterns
 
 https://github.com/cpino2/PINO-Python-Portfolio/tree/main/NERStreamlitApp
+
 Tidy Data Project: Apply Tidy Data Principles to clean, transform, and tidy up a dataset
 
 https://github.com/cpino2/PINO-Python-Portfolio/tree/main/TidyData-Project.
+
 Basic Streamlit App: Explore interactive features for user to engage with a penguin population dataset
 
 https://github.com/cpino2/PINO-Python-Portfolio/tree/main/basic-streamlit-app
-This semester, I am learning how to build up my GitHub porfolio, embarking on fun passion projects using my coding skills on Visual Studio Code, and understanding the connections between Visual Studio Code and my Github Desktop!
 
 ## Accomplishments⚡
 As I reflect on all that I've learned this semester, here are some goals I've met that I am proud of myself for accomplishing! 
